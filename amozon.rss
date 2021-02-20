@@ -1,45 +1,84 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/podcastics/podcasts/rss-rendering/rss.xsl"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-  <channel>
-    <generator>Podcastics</generator>
-    <lastBuildDate>Mon, 08 Feb 2021 18:11:01 +0000</lastBuildDate>
-    <title>İnstagram Takipçi Satın Al</title>
-    <language>tr</language>
-    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-    <link>https://takipcialdim.com</link>
-    <itunes:type>episodic</itunes:type>
-    <itunes:author>takipcialdim</itunes:author>
-    <itunes:owner>
-      <itunes:name>takipcialdim</itunes:name>
-      <itunes:email>kertenkelede48@gmail.com</itunes:email>
-    </itunes:owner>
-    <itunes:category text="Business" />
-    <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://medias.podcastics.com/podcastics/podcasts/artwork/takipci-aldim.jpg.52f2f6b57931d79f8169e1a15a00e3be.jpg" />
-    <itunes:subtitle>İnstagram takipçi satın al, Türk ve yabancı binlerce takipçiyi anında hesabında görmek için alım işlemini sadece takipçi aldım üzerinden gerçekleştirin.
-. <a href="https://takipcialdim.com">https://takipcialdim.com</a></itunes:subtitle>
-    <description>İnstagram takipçi satın al, Türk ve yabancı binlerce takipçiyi anında hesabında görmek için alım işlemini sadece takipçi aldım üzerinden gerçekleştirin.
-. <a href="https://takipcialdim.com">https://takipcialdim.com</a></description>
-    <itunes:summary>İnstagram takipçi satın al, Türk ve yabancı binlerce takipçiyi anında hesabında görmek için alım işlemini sadece takipçi aldım üzerinden gerçekleştirin.
-. <a href="https://takipcialdim.com">https://takipcialdim.com</a></itunes:summary>
-    <content:encoded><![CDATA[<p>takipçi aldım</p>
-]]></content:encoded>
-    <item>
-      <title>Takipçi Aldım</title>
-      <pubDate>Mon, 08 Feb 2021 18:09:00 +0000</pubDate>
-      <enclosure url="https://sphinx.acast.com/p/open/s/600c36de30c1ba09f8fda4cb/e/600c371170336b0a6658c365/media.mp3" type="audio/mpeg" length="2" />
-      <guid isPermaLink="false">62462</guid>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:image/>
-      <itunes:author>takipcialdim</itunes:author>
-      <link>https://takipcialdim.com</link>
-      <itunes:subtitle>takipçi satın alma sitesi.</itunes:subtitle>
-      <description>Takipçi aldım Türkiye'de bir takipçi satın alma sitesi. Gerçek, kalıcı ve telafili takipçiyle tanışmak isteyenler için geliştirildi. <a href="https://takipcialdim.com/">https://takipcialdim.com</a></description>
-      <itunes:summary>Takipçi aldım Türkiye'de bir takipçi satın alma sitesi. Gerçek, kalıcı ve telafili takipçiyle tanışmak isteyenler için geliştirildi. <a href="https://takipcialdim.com/">takipcialdim.com</a></itunes:summary>
-      <content:encoded><![CDATA[<p>Takipçi aldım Türkiye'de bir takipçi satın alma sitesi. Gerçek, kalıcı ve telafili takipçiyle tanışmak isteyenler için geliştirildi. <a href="https://takipcialdim.com/">takipcialdim.com</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
+
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/feed/rss.xslt" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podaccess="https://access.acast.com/schema/1.0/" xmlns:acast="https://schema.acast.com/1.0/">
+		<channel>
+				<ttl>60</ttl>
+
+				<generator>pippa.io</generator>
+
+				<title>İnstagram Takipçi Satın Al</title>
+
+				<link>https://takipcialdim.com</link>
+
+			<atom:link href="https://feeds.acast.com/public/shows/60315c1284bc351af2491390" rel="self" type="application/rss+xml"/>
+				<language>tr</language>
+
+				<copyright>Takipçi Aldım</copyright>
+
+				<itunes:keywords>takipçi satın al, instagram takipçi satın al,takipçi aldım</itunes:keywords>
+
+				<itunes:author>Takipçi Aldım</itunes:author>
+
+				<itunes:subtitle>İnstagram takipçi satın alma siteniz.</itunes:subtitle>
+
+				<itunes:summary><![CDATA[Merhaba, bu podcast yayınımız takipçi aldım web sitesi üzerinden takipçi satın almaya yöneliktir. Satın almakta olduğunuz ya da olacağınız paket ve içerik hakkında detaylı bilgi sunmaktadır. Sizler de yayını dinleyerek fikir edinebilir dilerseniz instagram için beğeni , izlenme ve takipçi satın alabilirsiniz. Satın almak için tıklayın : <a href="https://takipcialdim.com">https://takipcialdim.com</a></p>]]></itunes:summary>
+
+				<description><![CDATA[Merhaba, bu podcast yayınımız takipçi aldım web sitesi üzerinden takipçi satın almaya yöneliktir. Satın almakta olduğunuz ya da olacağınız paket ve içerik hakkında detaylı bilgi sunmaktadır. Sizler de yayını dinleyerek fikir edinebilir dilerseniz instagram için beğeni , izlenme ve takipçi satın alabilirsiniz. Satın almak için tıklayın : <a href="https://takipcialdim.com">https://takipcialdim.com</a></p>]]></description>
+
+				<itunes:explicit>no</itunes:explicit>
+
+				<itunes:owner>
+					<itunes:name>Takipçi Aldım</itunes:name>
+					<itunes:email>info+60315c1284bc351af2491390@mg.pippa.io</itunes:email>
+</itunes:owner>
+
+				<acast:showId>60315c1284bc351af2491390</acast:showId>
+
+				<acast:showUrl>instagram-takipci-satn-al</acast:showUrl>
+
+			<acast:signature key="EXAMPLE" algorithm="aes-256-cbc"><![CDATA[+CYy8qNa/537jhCHg4PLyg==]]></acast:signature>
+				<acast:settings><![CDATA[vHmTaX660iWbGbG4aRPtdTD4Y4EOhn1JKY4aSnLfaNSjc/slpby6kPKJcXhIC4XIcn4CUHeHeN2q/7R+7oftRvHPJy3tzZe6JSTUY5VDUpZfUm5v8HF0j4PfzxirUrxoa9biTpmYM/YEradzIdT3lx4II28wZP/Nv1TAYca/Pds/FEPJVHaXxZgWE+4J2T7tLwKEZ6oIrk6Dfogm9YFzyH2bQHnVIhkXO+ZbRuuvFIIcCeSQswS0NPTPg6pJYc+oVJto/oXzlKCwNAf6I/Gt2OgcpVWnJFZSs0Xe2hO4y7YBbWa9aJ0YSEEJS9nvyaXl+Ydhm0IKBwe7n1EGCN8dDnHh9cA98pg7SUZr3/W9y5ThrichDC9er3I2PiHZk7GC3im5dCx9GlY4sVPMiw5dmORaF4qgrmNKHYWs/IgQMlzqD5LqiSiUA9H8xvvkgyPT6OVyK1I7PUUMRf+Av9jZACkcS2ypFUt5AUUyD4bRm26eHEpWbauVzvy3pk8vE4g/nKxNeKTwfijdcXCLJUNV1w==]]></acast:settings>
+
+				<itunes:type>episodic</itunes:type>
+
+			<itunes:image href="https://assets.pippa.io/shows/undefined/1613847513381-05baa5554ac62211bd58c5d18a002da5.jpeg"/>
+				<image>
+					<url>https://assets.pippa.io/shows/undefined/1613847513381-05baa5554ac62211bd58c5d18a002da5.jpeg</url>
+					<link>https://takipcialdim.com</link>
+					<title>İnstagram Takipçi Satın Al</title>
+</image>
+
+				<item>
+						<title>İnstagram Takipçi Satın Al</title>
+
+						<itunes:title>İnstagram Takipçi Satın Al</itunes:title>
+
+						<pubDate>Sat, 20 Feb 2021 19:03:50 GMT</pubDate>
+
+						<itunes:duration>0:03</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/60315c1284bc351af2491390/e/60315c6e8dcb6103937e444c/media.mp3" length="149697" type="audio/mpeg"/>
+					<guid isPermaLink="false">60315c6e8dcb6103937e444c</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://shows.acast.com/instagram-takipci-satn-al/episodes/instagram-takipci-satn-al</link>
+
+						<acast:episodeId>60315c6e8dcb6103937e444c</acast:episodeId>
+
+						<acast:episodeUrl>instagram-takipci-satn-al</acast:episodeUrl>
+
+						<acast:settings><![CDATA[vHmTaX660iWbGbG4aRPtdauYVoHTbgTi6/VocE0KuJs2ombY+EXbr7PjcBCr7X/iYtZbRSJ8o2lyv0BF11YVdXiDApdkCuWguicuKHFzXV30h1IJYH2mUJP6yjaL05db4Us6cpnKOQ5bysOoIjr7OCpCKDuBs3qvq/QVKTPibJB5PFBONcsYUivfBIAkFwlcqXMfCKIOgEtcuPp4oBL1kx38qby2vFsXmJKiEJsFzi59fZP6zKps0vyg6c5bO88NGMGhVQDMO/jVg+tI/ag4Fo3XREnZFT8bXR93hAKhsIFRJ3fibX+jyrrwgPZtFZz3sRGAPtEN6d/bRf8PqQ2LHcEvivIQE2fab0zHbKju79t//m/aQWMuTzEpyrbQkiFR2ayjKG3IGsIp4XubU+JYVlC4k84Af7R9ZMU5BmdBqD75zzWrn86EI7tzU4CzPm9STt5sPgSYnw/ybHspBbihx1AqocV4D6REvaQRujFdiqeMhPqd3KfZTXhrNL8J/mi2BN4PVoVmxmGBEt7iRK66nw==]]></acast:settings>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<description><![CDATA[Takipçi Aldım, Türkiye merkezli bir e ticaret sitedir. Site üzerinden takipçi, beğeni ve izlenme satın alabilirsiniz.Türk ve yabancı binlerce takipçiyi anında hesabında görmek için alım işlemini sadece takipçi aldım üzerinden gerçekleştirin. Satın almaya başlamak için tıklayın : <a href="https://takipcialdim.com">https://takipcialdim.com</a></p>]]></description>
+
+						<itunes:summary><![CDATA[Takipçi Aldım, Türkiye merkezli bir e ticaret sitedir. Site üzerinden takipçi, beğeni ve izlenme satın alabilirsiniz.Türk ve yabancı binlerce takipçiyi anında hesabında görmek için alım işlemini sadece takipçi aldım üzerinden gerçekleştirin. Satın almaya başlamak için tıklayın : <a href="https://takipcialdim.com">https://takipcialdim.com</a></p>]]></itunes:summary>
+
+</item>
+
+			<itunes:category text="Business"/>
+</channel>
+
 </rss>
