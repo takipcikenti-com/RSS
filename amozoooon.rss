@@ -1,62 +1,50 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-<channel>
-<title>İnstagram Takipçi Satın Al</title>
-<link>https://www.spreaker.com</link>
-<description>
-<![CDATA[İnstagram için beğeni , izlenme ve takipçi satın almak için takipçi aldım'a gelin. Satın almak için tıklayın : <a href="https://takipcialdim.com">https://takipcialdim.com</a> ]]>
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="/xsl/rss.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#304;nstagram Takip&#231;i Sat&#305;n Al</title>
+    <link>https://podomatic.com</link>
+    <description>&#304;nstagram takip&#231;i sat&#305;n al, T&#252;rk ve yabanc&#305; binlerce takip&#231;iyi an&#305;nda hesab&#305;nda g&#246;rmek i&#231;in al&#305;m i&#351;lemini sadece takip&#231;i ald&#305;m &#252;zerinden ger&#231;ekle&#351;tirin. https://takipcialdim.com</description>
+    <language>tr</language>
+    <generator>Podomatic RSS Generator</generator>
+    <pubDate>Sat, 20 Feb 2021 20:26:54 +0000</pubDate>
+    <itunes:keywords>instagram, ,takip&#231;i, ,sat&#305;n, ,al, ,takip&#231;i, ,sat&#305;n, </itunes:keywords>
+    <itunes:subtitle>&#304;nstagram takip&#231;i sat&#305;n alma i&#351;lemleri i&#231;in takip&#231;i ald&#305;m.</itunes:subtitle>
+    <itunes:type>Episodic</itunes:type>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:block>no</itunes:block>
+    <itunes:image href="https://assets.podomatic.net/ts/79/ef/87/takipcialdim3992/3000x3000_15363766.jpg"/>
+    <image>
+      <url>https://assets.podomatic.net/ts/79/ef/87/takipcialdim3992/3000x3000_15363766.jpg</url>
+      <title>&#304;nstagram Takip&#231;i Sat&#305;n Al</title>
+      <link>https://podomatic.com</link>
+    </image>
+    <itunes:author>takipci aldim</itunes:author>
+    <itunes:summary>&#304;nstagram takip&#231;i sat&#305;n al, T&#252;rk ve yabanc&#305; binlerce takip&#231;iyi an&#305;nda hesab&#305;nda g&#246;rmek i&#231;in al&#305;m i&#351;lemini sadece takip&#231;i ald&#305;m &#252;zerinden ger&#231;ekle&#351;tirin. https://takipcialdim.com</itunes:summary>
+    <itunes:category text="Business"></itunes:category>
+    <atom:link href="https://aldim.podomatic.com/rss2.xml" rel="self" title="&#304;nstagram Takip&#231;i Sat&#305;n Al" type="application/rss+xml"/>
+    <item>
+      <title>Episode 1: Takip&#231;i Ald&#305;m</title>
+      <itunes:title>Takip&#231;i Ald&#305;m</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>Full</itunes:episodeType>
+      <description>Takip&#231;i Ald&#305;m, T&#252;rkiye merkezli bir e ticaret sitedir. Site &#252;zerinden takip&#231;i, be&#287;eni ve izlenme sat&#305;n alabilirsiniz. T&#252;rkiye, Istanbul'da faaliyet g&#246;steren bu i&#351;letme sayesinde sizde b&#252;y&#252;yebilir sat&#305;&#351; rakamlar&#305;n&#305;z&#305; att&#305;rabilirsiniz. Sat&#305;n almak i&#231;in linke t&#305;klay&#305;n : &lt;a href=&quot;https://takipcialdim.com&quot;&gt;https://takipcialdim.com&lt;/a&gt;
 </description>
-<atom:link href="https://www.spreaker.com/show/4798219/episodes/feed" rel="self" type="application/rss+xml"/>
-<language>tr</language>
-<category>Marketing</category>
-<copyright>Copyright Takipçi Kenti</copyright>
-<image>
-<url>https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1593554fd96e24a9d4c594126ecd291b.jpg</url>
-<title>İnstagram Takipçi Satın Al</title>
-<link>https://www.spreaker.com/show/instagram-takipci-satin-al_6</link>
-</image>
-<lastBuildDate>Sat, 20 Feb 2021 19:26:02 +0000</lastBuildDate>
-<itunes:author>Takipçi Kenti</itunes:author>
-<itunes:owner>
-<itunes:name>Takipçi Kenti</itunes:name>
-<itunes:email>kertenkelede48@gmail.com</itunes:email>
-</itunes:owner>
-<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1593554fd96e24a9d4c594126ecd291b.jpg"/>
-<itunes:subtitle>İnstagram için beğeni , izlenme ve takipçi satın almak için takipçi aldım'a gelin. Satın almak için tıklayın : <a href="https://takipcialdim.com">https://takipcialdim.com</a></itunes:subtitle>
-<itunes:summary>
-<![CDATA[ Merhaba, bu podcast yayınımız takipçi aldım web sitesi üzerinden takipçi satın almaya yöneliktir. Satın almakta olduğunuz ya da olacağınız paket ve içerik hakkında detaylı bilgi sunmaktadır. Sizler de yayını dinleyerek fikir edinebilir dilerseniz instagram için beğeni , izlenme ve takipçi satın alabilirsiniz. Satın almak için tıklayın : <a href="https://takipcialdim.com">https://takipcialdim.com</a> ]]>
+      <guid isPermaLink="true">https://podomatic.com</guid>
+      <comments>https://www.podomatic.com</comments>
+      <pubDate>Sat, 20 Feb 2021 16:46:36 +0000</pubDate>
+      <dcterms:modified>2021-02-20</dcterms:modified>
+      <dcterms:created>2021-02-20</dcterms:created>
+      <link>https://www.podomatic.com/</link>
+      <dc:creator>takipci aldim</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="https://takipci-aldim.podomatic.com/enclosure/2021-02-20T08_46_36-08_00.mp3?_=15363764" length="1893962" type="audio/mpeg"/>
+      <itunes:duration>152</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+      <itunes:summary>Takip&#231;i Ald&#305;m, T&#252;rkiye merkezli bir e ticaret sitedir. Site &#252;zerinden takip&#231;i, be&#287;eni ve izlenme sat&#305;n alabilirsiniz. T&#252;rkiye, Istanbul'da faaliyet g&#246;steren bu i&#351;letme sayesinde sizde b&#252;y&#252;yebilir sat&#305;&#351; rakamlar&#305;n&#305;z&#305; att&#305;rabilirsiniz. Sat&#305;n almak i&#231;in linke t&#305;klay&#305;n : &lt;a href=&quot;https://takipcialdim.com&quot;&gt;https://takipcialdim.com&lt;/a&gt;
 </itunes:summary>
-<itunes:category text="Business">
-<itunes:category text="Marketing"/>
-</itunes:category>
-<itunes:explicit>clean</itunes:explicit>
-<itunes:type>episodic</itunes:type>
-<googleplay:author>Takipçi Kenti</googleplay:author>
-<googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1593554fd96e24a9d4c594126ecd291b.jpg"/>
-<googleplay:email>kertenkelede48@gmail.com</googleplay:email>
-<googleplay:description>Merhaba, bu podcast yayınımız takipçi aldım web sitesi üzerinden takipçi satın almaya yöneliktir. Satın almakta olduğunuz ya da olacağınız paket ve içerik hakkında detaylı bilgi sunmaktadır. Sizler de yayını dinleyerek fikir edinebilir dilerseniz instagram için beğeni , izlenme ve takipçi satın alabilirsiniz. Satın almak için tıklayın : <a href="https://takipcialdim.com">https://takipcialdim.com</a></googleplay:description>
-<googleplay:category text="Business"/>
-<googleplay:explicit>No</googleplay:explicit>
-<item>
-<title>İnstagram Takipçi Satın Al</title>
-<itunes:title>İnstagram Takipçi Satın Al</itunes:title>
-<itunes:episode>1</itunes:episode>
-<itunes:episodeType>Full</itunes:episodeType>
-<description><p>Takipçi Aldım, Türkiye merkezli bir e ticaret sitedir. Site üzerinden takipçi, beğeni ve izlenme satın alabilirsiniz. Türk ve yabancı binlerce takipçiyi anında hesabında görmek için alım işlemini sadece takipçi aldım üzerinden gerçekleştirin. Satın almaya başlamak için tıklayın : <a href="https://takipcialdim.com">https://takipcialdim.com</a></p></description>
-<guid isPermaLink="true">https://takipcikenti.podomatic.com/entry/2021-02-06T02_56_44-08_00</guid>
-<comments>https://www.podomatic.com/podcasts/takipcikenti/episodes/2021-02-06T02_56_44-08_00</comments>
-<pubDate>Sat, 20 Feb 2021 20:25:23 +0000</pubDate>
-<dcterms:modified>2021-02-20</dcterms:modified>
-<dcterms:created>2021-02-20</dcterms:created>
-<link>https://www.podomatic.com</link>
-<dc:creator>takipcikenti</dc:creator>
-<itunes:keywords></itunes:keywords>
-<enclosure url="https://takipcikenti.podomatic.com/enclosure/2021-02-06T02_56_44-08_00.mp3?_=15335053" length="4174785" type="audio/mpeg"/>
-<itunes:duration>152</itunes:duration>
-<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1593554fd96e24a9d4c594126ecd291b.jpg"/>
-<itunes:explicit>no</itunes:explicit>
-<itunes:order>1</itunes:order>
-<itunes:summary>Takipçi Aldım, Türkiye merkezli bir e ticaret sitedir. Site üzerinden takipçi, beğeni ve izlenme satın alabilirsiniz. Türk ve yabancı binlerce takipçiyi anında hesabında görmek için alım işlemini sadece takipçi aldım üzerinden gerçekleştirin. Satın almaya başlamak için tıklayın : <a href="https://takipcialdim.com">https://takipcialdim.com</a></itunes:summary>
-<itunes:subtitle>Takipçi Aldım, Türkiye merkezli bir e ticaret sitedir. Site üzerinden takipçi, beğeni ve izlenme satın alabilirsiniz. Türk ve yabancı binlerce takipçiyi anında hesabında görmek için alım işlemini sadece takipçi aldım üzerinden gerçekleştirin. Satın almaya başlamak için tıklayın : <a href="https://takipcialdim.com">https://takipcialdim.com</a></itunes:subtitle>
-</item>
-</channel>
+      <itunes:subtitle>Takip&#231;i Ald&#305;m, T&#252;rkiye merkezli bir e ticaret sitedir. Site &#252;zerinden takip&#231;i, be&#287;eni ve izlenme sat&#305;n alabilirsiniz. T&#252;rkiye, Istanbul'da faaliyet g&#246;steren bu i&#351;letme sayesinde sizde b&#252;y&#252;yebilir sat&#305;&#351; rakamlar&#305;n&#305;z&#305; att&#305;rabilirsiniz. Sat&#305;n almak i&#231;in linke t&#305;klay&#305;n : &lt;a href=&quot;https://takipcialdim.com&quot;&gt;https://takipcialdim.com&lt;/a&gt;</itunes:subtitle>
+    </item>
+  </channel>
 </rss>
