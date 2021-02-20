@@ -1,40 +1,28 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-<channel>
-<title>Ä°nstagram TakipÃ§i SatÄ±n Al</title>
-<link>https://www.spreaker.com/show/instagram-takipci-satin-al_6</link>
-<description>
-<![CDATA[Ä°nstagram iÃ§in beÄŸeni , izlenme ve takipÃ§i satÄ±n almak iÃ§in takipÃ§i aldÄ±m'a gelin. SatÄ±n almak iÃ§in tÄ±klayÄ±n : <a href="https://takipcialdim.com">https://takipcialdim.com</a> ]]>
-</description>
-<atom:link href="https://www.spreaker.com/show/4798219/episodes/feed" rel="self" type="application/rss+xml"/>
-<language>tr</language>
-<category>Marketing</category>
-<copyright>Copyright TakipÃ§i Kenti</copyright>
-<image>
-<url>https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1593554fd96e24a9d4c594126ecd291b.jpg</url>
-<title>Ä°nstagram TakipÃ§i SatÄ±n Al</title>
-<link>https://www.spreaker.com/show/instagram-takipci-satin-al_6</link>
-</image>
-<lastBuildDate>Sat, 20 Feb 2021 19:26:02 +0000</lastBuildDate>
-<itunes:author>TakipÃ§i Kenti</itunes:author>
-<itunes:owner>
-<itunes:name>TakipÃ§i Kenti</itunes:name>
-<itunes:email>kertenkelede48@gmail.com</itunes:email>
-</itunes:owner>
-<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1593554fd96e24a9d4c594126ecd291b.jpg"/>
-<itunes:subtitle>Ä°nstagram iÃ§in beÄŸeni , izlenme ve takipÃ§i satÄ±n almak iÃ§in takipÃ§i aldÄ±m'a gelin. SatÄ±n almak iÃ§in tÄ±klayÄ±n : <a href="https://takipcialdim.com">https://takipcialdim.com</a></itunes:subtitle>
-<itunes:summary>
-<![CDATA[ Merhaba, bu podcast yayÄ±nÄ±mÄ±z takipÃ§i aldÄ±m web sitesi Ã¼zerinden takipÃ§i satÄ±n almaya yÃ¶neliktir. SatÄ±n almakta olduÄŸunuz ya da olacaÄŸÄ±nÄ±z paket ve iÃ§erik hakkÄ±nda detaylÄ± bilgi sunmaktadÄ±r. Sizler de yayÄ±nÄ± dinleyerek fikir edinebilir dilerseniz instagram iÃ§in beÄŸeni , izlenme ve takipÃ§i satÄ±n alabilirsiniz. SatÄ±n almak iÃ§in tÄ±klayÄ±n : <a href="https://takipcialdim.com">https://takipcialdim.com</a> ]]>
-</itunes:summary>
-<itunes:category text="Business">
-<itunes:category text="Marketing"/>
-</itunes:category>
-<itunes:explicit>clean</itunes:explicit>
-<itunes:type>episodic</itunes:type>
-<googleplay:author>Takipçi Aldım</googleplay:author>
-<googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1593554fd96e24a9d4c594126ecd291b.jpg"/>
-<googleplay:email>kertenkelede48@gmail.com</googleplay:email>
-<googleplay:description>Merhaba, bu podcast yayÄ±nÄ±mÄ±z takipÃ§i aldÄ±m web sitesi Ã¼zerinden takipÃ§i satÄ±n almaya yÃ¶neliktir. SatÄ±n almakta olduÄŸunuz ya da olacaÄŸÄ±nÄ±z paket ve iÃ§erik hakkÄ±nda detaylÄ± bilgi sunmaktadÄ±r. Sizler de yayÄ±nÄ± dinleyerek fikir edinebilir dilerseniz instagram iÃ§in beÄŸeni , izlenme ve takipÃ§i satÄ±n alabilirsiniz. SatÄ±n almak iÃ§in tÄ±klayÄ±n : <a href="https://takipcialdim.com">https://takipcialdim.com</a></googleplay:description>
-<googleplay:category text="Business"/>
-<googleplay:explicit>No</googleplay:explicit>
-</channel>
+
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="/xsl/rss.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#304;nstagram Takip&#231;i Sat&#305;n Al</title>
+    <link>https://podomatic.com</link>
+    <description>&#304;nstagram takip&#231;i sat&#305;n al, T&#252;rk ve yabanc&#305; binlerce takip&#231;iyi an&#305;nda hesab&#305;nda g&#246;rmek i&#231;in al&#305;m i&#351;lemini sadece takip&#231;i ald&#305;m &#252;zerinden ger&#231;ekle&#351;tirin. https://takipcialdim.com</description>
+    <language>tr</language>
+    <generator>Podomatic RSS Generator</generator>
+    <pubDate>Sat, 20 Feb 2021 20:26:54 +0000</pubDate>
+    <itunes:keywords>instagram, ,takip&#231;i, ,sat&#305;n, ,al, ,takip&#231;i, ,sat&#305;n, </itunes:keywords>
+    <itunes:subtitle>&#304;nstagram takip&#231;i sat&#305;n alma i&#351;lemleri i&#231;in takip&#231;i ald&#305;m.</itunes:subtitle>
+    <itunes:type>Episodic</itunes:type>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:block>no</itunes:block>
+    <itunes:image href="https://assets.podomatic.net/ts/79/ef/87/takipcialdim3992/3000x3000_15363766.jpg"/>
+    <image>
+      <url>https://assets.podomatic.net/ts/79/ef/87/takipcialdim3992/3000x3000_15363766.jpg</url>
+      <title>&#304;nstagram Takip&#231;i Sat&#305;n Al</title>
+      <link>https://takipci-aldim.podomatic.com</link>
+    </image>
+    <itunes:author>takipci aldim</itunes:author>
+    <itunes:summary>&#304;nstagram takip&#231;i sat&#305;n al, T&#252;rk ve yabanc&#305; binlerce takip&#231;iyi an&#305;nda hesab&#305;nda g&#246;rmek i&#231;in al&#305;m i&#351;lemini sadece takip&#231;i ald&#305;m &#252;zerinden ger&#231;ekle&#351;tirin. https://takipcialdim.com</itunes:summary>
+    <itunes:category text="Business"></itunes:category>
+    <atom:link href="https://takipci-aldim.podomatic.com/rss2.xml" rel="self" title="&#304;nstagram Takip&#231;i Sat&#305;n Al" type="application/rss+xml"/>
+  </channel>
 </rss>
