@@ -38,26 +38,25 @@
 <googleplay:explicit>No</googleplay:explicit>
 <item>
 <title>İnstagram Takipçi Satın Al</title>
-<link>https://www.spreaker.com/user/takipcikenti/takipci-satin-al</link>
-<description>
-<![CDATA[ Takipçi Aldım, Türkiye merkezli bir e ticaret sitedir. Site üzerinden takipçi, beğeni ve izlenme satın alabilirsiniz. Türk ve yabancı binlerce takipçiyi anında hesabında görmek için alım işlemini sadece takipçi aldım üzerinden gerçekleştirin. Satın almaya başlamak için tıklayın : <a href="https://takipcialdim.com">https://takipcialdim.com</a> ]]>
-</description>
-<guid isPermaLink="false">https://api.spreaker.com/episode/43561113</guid>
-<pubDate>Sat, 20 Feb 2021 19:25:23 +0000</pubDate>
-<enclosure url="https://api.spreaker.com/download/episode/43561113/takipci_satin_al.mp3" length="149697" type="audio/mpeg"/>
-<itunes:author>Takipçi Kenti</itunes:author>
-<itunes:subtitle>Takipçi Aldım, Türkiye merkezli bir e ticaret sitedir. Site üzerinden takipçi, beğeni ve izlenme satın alabilirsiniz. Türk ve yabancı binlerce takipçiyi anında hesabında görmek için alım işlemini sadece takipçi aldım üzerinden gerçekleştirin. Satın...</itunes:subtitle>
-<itunes:summary>
-<![CDATA[ Takipçi Aldım, Türkiye merkezli bir e ticaret sitedir. Site üzerinden takipçi, beğeni ve izlenme satın alabilirsiniz. Türk ve yabancı binlerce takipçiyi anında hesabında görmek için alım işlemini sadece takipçi aldım üzerinden gerçekleştirin. Satın almaya başlamak için tıklayın : <a href="https://takipcialdim.com">https://takipcialdim.com</a> ]]>
-</itunes:summary>
-<itunes:duration>4</itunes:duration>
-<itunes:explicit>clean</itunes:explicit>
+<itunes:title>İnstagram Takipçi Satın Al</itunes:title>
+<itunes:episode>1</itunes:episode>
+<itunes:episodeType>Full</itunes:episodeType>
+<description><p>Takipçi Aldım, Türkiye merkezli bir e ticaret sitedir. Site üzerinden takipçi, beğeni ve izlenme satın alabilirsiniz. Türk ve yabancı binlerce takipçiyi anında hesabında görmek için alım işlemini sadece takipçi aldım üzerinden gerçekleştirin. Satın almaya başlamak için tıklayın : <a href="https://takipcialdim.com">https://takipcialdim.com</a></p></description>
+<guid isPermaLink="true">https://takipcikenti.podomatic.com/entry/2021-02-06T02_56_44-08_00</guid>
+<comments>https://www.podomatic.com/podcasts/takipcikenti/episodes/2021-02-06T02_56_44-08_00</comments>
+<pubDate>Sat, 20 Feb 2021 20:25:23 +0000</pubDate>
+<dcterms:modified>2021-02-20</dcterms:modified>
+<dcterms:created>2021-02-20</dcterms:created>
+<link>https://www.podomatic.com</link>
+<dc:creator>takipcikenti</dc:creator>
+<itunes:keywords></itunes:keywords>
+<enclosure url="https://takipcikenti.podomatic.com/enclosure/2021-02-06T02_56_44-08_00.mp3?_=15335053" length="4174785" type="audio/mpeg"/>
+<itunes:duration>152</itunes:duration>
 <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1593554fd96e24a9d4c594126ecd291b.jpg"/>
-<itunes:episodeType>full</itunes:episodeType>
-<googleplay:author>Takipçi Kenti</googleplay:author>
-<googleplay:description>Takipçi Aldım, Türkiye merkezli bir e ticaret sitedir. Site üzerinden takipçi, beğeni ve izlenme satın alabilirsiniz. Türk ve yabancı binlerce takipçiyi anında hesabında görmek için alım işlemini sadece takipçi aldım üzerinden gerçekleştirin. Satın almaya başlamak için tıklayın : <a href="https://takipcialdim.com">https://takipcialdim.com</a></googleplay:description>
-<googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1593554fd96e24a9d4c594126ecd291b.jpg"/>
-<googleplay:explicit>No</googleplay:explicit>
+<itunes:explicit>no</itunes:explicit>
+<itunes:order>1</itunes:order>
+<itunes:summary>Takipçi Aldım, Türkiye merkezli bir e ticaret sitedir. Site üzerinden takipçi, beğeni ve izlenme satın alabilirsiniz. Türk ve yabancı binlerce takipçiyi anında hesabında görmek için alım işlemini sadece takipçi aldım üzerinden gerçekleştirin. Satın almaya başlamak için tıklayın : <a href="https://takipcialdim.com">https://takipcialdim.com</a></itunes:summary>
+<itunes:subtitle>Takipçi Aldım, Türkiye merkezli bir e ticaret sitedir. Site üzerinden takipçi, beğeni ve izlenme satın alabilirsiniz. Türk ve yabancı binlerce takipçiyi anında hesabında görmek için alım işlemini sadece takipçi aldım üzerinden gerçekleştirin. Satın almaya başlamak için tıklayın : <a href="https://takipcialdim.com">https://takipcialdim.com</a></itunes:subtitle>
 </item>
 </channel>
 </rss>
