@@ -1,0 +1,28 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="/xsl/rss.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#304;nstagram Takip&#231;i Sat&#305;n Al</title>
+    <link>https://podomatic.com</link>
+    <description>&#304;nstagram takip&#231;i sat&#305;n al, T&#252;rk ve yabanc&#305; binlerce takip&#231;iyi an&#305;nda hesab&#305;nda g&#246;rmek i&#231;in al&#305;m i&#351;lemini sadece takip&#231;i ald&#305;m &#252;zerinden ger&#231;ekle&#351;tirin. &lt;a href=&quot;https://takipcialdim.com&quot;&gt;https://takipcialdim.com&lt;/a&gt;m</description>
+    <language>tr</language>
+    <generator>Podomatic RSS Generator</generator>
+    <pubDate>Sat, 20 Feb 2021 20:26:54 +0000</pubDate>
+    <itunes:keywords>instagram, ,takip&#231;i, ,sat&#305;n, ,al, ,takip&#231;i, ,sat&#305;n, </itunes:keywords>
+    <itunes:subtitle>&#304;nstagram takip&#231;i sat&#305;n alma i&#351;lemleri i&#231;in takip&#231;i ald&#305;m.</itunes:subtitle>
+    <itunes:type>Episodic</itunes:type>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:block>no</itunes:block>
+    <itunes:image href="https://assets.podomatic.net/ts/79/ef/87/takipcialdim3992/3000x3000_15363766.jpg"/>
+    <image>
+      <url>https://assets.podomatic.net/ts/79/ef/87/takipcialdim3992/3000x3000_15363766.jpg</url>
+      <title>&#304;nstagram Takip&#231;i Sat&#305;n Al</title>
+      <link>https://podomatic.com</link>
+    </image>
+    <itunes:author>takipci aldim</itunes:author>
+    <itunes:summary>&#304;nstagram takip&#231;i sat&#305;n al, T&#252;rk ve yabanc&#305; binlerce takip&#231;iyi an&#305;nda hesab&#305;nda g&#246;rmek i&#231;in al&#305;m i&#351;lemini sadece takip&#231;i ald&#305;m &#252;zerinden ger&#231;ekle&#351;tirin. https://takipcialdim.com</itunes:summary>
+    <itunes:category text="Business"></itunes:category>
+    <atom:link href="https://podomatic.com/rss2.xml" rel="self" title="&#304;nstagram Takip&#231;i Sat&#305;n Al" type="application/rss+xml"/>
+  </channel>
+</rss>
