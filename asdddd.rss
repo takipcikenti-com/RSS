@@ -433,11 +433,7 @@
 			<itunes:season>1</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
-	<item>
-			<title><![CDATA[Episode]]></title>
-			<description><![CDATA[.
-]]></description>
-			<link>	<item>
+<item>
 			<title><![CDATA[Episode]]></title>
 			<description><![CDATA[.
 ]]></description>
