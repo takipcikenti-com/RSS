@@ -25,32 +25,7 @@
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:category text="Business"/>
 		<itunes:image href="https://d12xoj7p9moygp.cloudfront.net/images/default-podcast-image.png"/>
-		 	<item>
-			<title><![CDATA[Episode]]></title>
-			<description><![CDATA[.
-]]></description>
-			<link>https://blogencikwen.blogspot.com/2010/12/cool-dance_03.html</link>
-			<guid isPermaLink="false">7e6ef2b9-0ba8-cffd-97dd-49518bfee2a9</guid>
-			<dc:creator><![CDATA[anchor.fm]]></dc:creator>
-			<pubDate>Wed, 3 Mar 2021 20:21:33 GMT</pubDate>
-			<enclosure url="		 	<item>
-			<title><![CDATA[Episode]]></title>
-			<description><![CDATA[.
-]]></description>
-			<link>https://anchor.fm/s.mp3" length="8195112" type="audio/x-m4a"/>
-			<itunes:summary>.
-</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>506</itunes:duration>
-			<itunes:image href="		 	<item>
-			<title><![CDATA[Episode]]></title>
-			<description><![CDATA[.
-]]></description>
-			<link>https://d12xoj7p9moygp.cloudfront.net/images/default-podcast-image.png"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
- 		 	<item>
+<item>
 			<title><![CDATA[Episode]]></title>
 			<description><![CDATA[.
 ]]></description>
